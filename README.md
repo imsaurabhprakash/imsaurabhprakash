@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imsaurabhprakash
+- 👋 Hi, I’m Saurabh Prakash
 - 👀 I’m interested in artificial intelligence, logistics and blockchain technology
 - 🌱 I’m currently learning about neural networks and blockchain smart contracts
 - 💞️ I’m looking to collaborate on projects related to AI and blockchain
